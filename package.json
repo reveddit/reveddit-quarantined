@@ -1,7 +1,7 @@
 {
-  "name": "revddit-quarantined",
+  "name": "reveddit-quarantined",
   "version": "1.0.0",
-  "description": "Allows quarantined content to be viewed on revddit.",
+  "description": "Allows quarantined content to be viewed on reveddit.",
   "main": "index.js",
   "license": "GPL-3.0",
   "private": true,

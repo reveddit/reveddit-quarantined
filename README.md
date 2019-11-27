@@ -1,5 +1,5 @@
-# revddit-quarantined
-A browser extension for showing content from quarantined subreddits on revddit
+# reveddit-quarantined
+A browser extension for showing content from quarantined subreddits on reveddit
 
 ## Installation
 
