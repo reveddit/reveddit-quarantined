@@ -1,4 +1,8 @@
-# reveddit-quarantined
+# Deprecated
+
+This extension is deprecated. [Real-time](https://github.com/reveddit/real-time-extension) contains the same functionality.
+
+## About
 A browser extension for showing content from quarantined subreddits on reveddit
 
 ## Installation
