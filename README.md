@@ -6,8 +6,16 @@ This extension is deprecated. [Real-time](https://github.com/reveddit/real-time-
 A browser extension for showing content from quarantined subreddits on reveddit
 
 ## Installation
+<p align="center">
+  </br></br>
+  <a href="https://chrome.google.com/webstore/detail/revddit-quarantined/cmfgeilnphkjendelakiniceinhjonfh">
+    <img src="https://i.imgur.com/B0i5sn3.png" alt="Chrome Web Store"></a>
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/reveddit-quarantined/">
+    <img src="https://i.imgur.com/dvof8rG.png" alt="Firefox add-ons"></a>
+  </br></br>
+</p>
 
-Available on the [Chrome store](https://chrome.google.com/webstore/detail/revddit-quarantined/cmfgeilnphkjendelakiniceinhjonfh) and [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/revddit-quarantined/)
+Available on the [Chrome store](https://chrome.google.com/webstore/detail/revddit-quarantined/cmfgeilnphkjendelakiniceinhjonfh) and [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/reveddit-quarantined/)
 
 ## Building from source
 
